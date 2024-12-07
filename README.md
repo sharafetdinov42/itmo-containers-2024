@@ -68,7 +68,7 @@
 ### 8. Работа с Kubernetes Dashboard
 - **Шаг 8**: Установка и доступ к Kubernetes Dashboard
 
-![Доступ к Kubernetes Dashboard](https://github.com/sharafetdinov42/itmo-containers-2024/raw/lab3/screens/13.jpg)  
+![Доступ к Kubernetes Dashboard](https://github.com/sharafetdinov42/itmo-containers-2024/raw/lab3/screens/14.jpg)  
 ![Дашборд](https://github.com/sharafetdinov42/itmo-containers-2024/raw/lab3/screens/9.jpg)
 
 ---
