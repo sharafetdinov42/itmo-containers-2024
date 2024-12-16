@@ -39,7 +39,8 @@ kubectl get pods
 #### 6. Тестирование сервиса
 ```bash
 minikube service llm-app-service --url
-
-
+```
+![дашборд](https://github.com/sharafetdinov42/itmo-containers-2024/blob/lab4/screens/image.png)
+![Сервис](https://github.com/sharafetdinov42/itmo-containers-2024/blob/lab4/screens/image2.png)
 
 
